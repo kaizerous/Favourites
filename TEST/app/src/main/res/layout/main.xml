@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/buttonUrl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to Google" />
+
+    <Button
+        android:id="@+id/buttonUrl2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to Reddit" />
+
+    <Button
+        android:id="@+id/buttonUrl3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to Facebook" />
+
+    <Button
+        android:id="@+id/buttonUrl4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to Youtube" />
+
+</LinearLayout>

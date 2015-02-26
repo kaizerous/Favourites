@@ -37,6 +37,8 @@ public class WebViewActivity extends Activity {
 
 
 
+
+
         //LOAD CUSTOM WEBPAGE
         //String customHtml = "<html><body><h1>Hello, WebView</h1></body></html>";
         //webView.loadData(customHtml, "text/html", "UTF-8");
